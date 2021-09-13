@@ -1,2 +1,2 @@
 # simple_blog
-I'm practising grid and flexbox into a websit
+Practising grid into a website where only shows into a big screen.
